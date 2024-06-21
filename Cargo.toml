@@ -1,0 +1,9 @@
+[package]
+name = "corset"
+version = "0.1.0"
+edition = "2021"
+authors = ["oscar.rs <jeff.cofos@gmail.com>"]
+license = "MIT"
+description = "business backend build toolkit."
+
+[dependencies]
